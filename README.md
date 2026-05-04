@@ -93,7 +93,7 @@ This dashboard directly addresses these challenges through data-driven intellige
 
 **Heramb Jadhav**
 - GitHub: [@HerambJadhav604](https://github.com/HerambJadhav604)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: [https://www.linkedin.com/in/herambjadhav604/]
 
 ---
 
